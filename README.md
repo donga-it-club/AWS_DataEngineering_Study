@@ -21,3 +21,15 @@
 - OT: [스터디 진행 방식 회의](https://drive.google.com/file/d/1D7Zt6PdlbqKkKc656TbXmSCn6P4KsPuj/view?usp=sharing)
 
 ### 2주차(23.01.25)
+- 발표자: 권미정
+  - [3장 발표 자료](https://mjrecord.tistory.com/26)
+  - [발표 영상](https://drive.google.com/file/d/1iQGNsYCW7vfhn9Ef0QEPw5F5OjuyEEWU/view?usp=sharing)
+- 발표자: 김예나
+  - [1장 발표 자료](https://yeneua.tistory.com/4)
+  - [2장 발표 자료](https://yeneua.tistory.com/5)
+  - [발표 영상](https://drive.google.com/file/d/1mSgz_OafpUgRUxlbyfB5h4sh3zmMkKoL/view?usp=sharing)
+- 발표자: 도기범
+  - [3장 발표 자료](https://ford.tistory.com/44)
+  - [발표 영상](https://drive.google.com/file/d/1rGMGnFDqkhmXNZs5WcDxlFPq6cCg9cI3/view?usp=sharing)
+  
+### 3주차(23.02.01)
