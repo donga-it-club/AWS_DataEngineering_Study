@@ -38,10 +38,10 @@
 - 학습 내용: 『4장 데이터 카탈로그화, 보안 및 거버넌스』
 - 참여자: 권미정, 강경훈, 강인영, 김예나, 최승현
 - 발표자: 강경훈
-  - [4장 발표 PPT](https://docs.google.com/presentation/d/10VvP0A4eoxAX5fUmRFUmKEjaeeIm6OqW/edit?usp=sharing&ouid=104296105098412198090&rtpof=true&sd=true)
+  - [발표 PPT](https://docs.google.com/presentation/d/10VvP0A4eoxAX5fUmRFUmKEjaeeIm6OqW/edit?usp=sharing&ouid=104296105098412198090&rtpof=true&sd=true)
   - [발표 영상](https://drive.google.com/file/d/1woWbK3u7rwt7zUhuQR6mpWFZilCytR1G/view?usp=sharing)
 - 발표자: 최승현
-  - [4장 발표 자료](https://vulter3653.tistory.com/33)
+  - [발표 자료](https://vulter3653.tistory.com/33)
   - [발표 영상](https://drive.google.com/file/d/134ZWNaY4RSPaVwJmdQvGJ7ZMWcO1Ltyg/view?usp=sharing)
 
 ### 4주차(23.02.08)
