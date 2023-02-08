@@ -46,9 +46,16 @@
 
 ### 4주차(23.02.08)
 - 학습 내용: 『5장 데이터엔지니어링 파이프라인 설계』
+- 참여자: 권미정, 강경훈, 강인영, 김예나, 도기범, 최승현
 - 발표자: 강인영
+  - [발표 자료]
+  - [발표 영상](https://drive.google.com/file/d/1wze81BSXmFRDy_lNYH7OCr7QtpNU3oLE/view?usp=sharing)
 - 발표자: 최승현
+  - [발표 자료](https://vulter3653.tistory.com/37)
+  - [발표 영상](https://drive.google.com/file/d/1gI0YB6NBrQeTIDgUi9lWgLjhExLX2MO9/view?usp=sharing)
 - 발표자: 권미정
+  - [발표 자료](https://mjrecord.tistory.com/30)
+  - [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
 
 ### 5주차(23.02.15)
 - 학습 내용: 『6장 배치 및 스트리밍 데이터 수집』
