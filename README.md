@@ -48,7 +48,7 @@
 - 학습 내용: 『5장 데이터엔지니어링 파이프라인 설계』
 - 참여자: 권미정, 강경훈, 강인영, 김예나, 도기범, 최승현
 - 발표자: 강인영
-  - [발표 자료]
+  - [발표 자료](https://kio15978.tistory.com/92)
   - [발표 영상](https://drive.google.com/file/d/1wze81BSXmFRDy_lNYH7OCr7QtpNU3oLE/view?usp=sharing)
 - 발표자: 최승현
   - [발표 자료](https://vulter3653.tistory.com/37)
