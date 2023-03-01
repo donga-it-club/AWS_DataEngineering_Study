@@ -3,11 +3,11 @@
 
 ## 스터디 멤버
 - 권미정(리더)
-- 강경훈
 - 강인영
 - 김예나
-- 도기범
 - 최승현
+- 도기범(5주차~ x)
+- 강경훈(5주차~ x)
 
 ## 스터디 방식
 - 활용 도서: [Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
@@ -16,6 +16,7 @@
 - 캠을 키고 스터디에 참여한다.
 - 자기 발표 차례인데 못 하게 되면 리더에게 미리 연락하고 그 다음 주 발표를 준비한다. 발표 차례가 아니어도 스터디에 참여를 못 할 시엔 미리 연락한다.
 - AWS 기초 교육 공개는 교수님의 논의 후에 결정.
+- 개강 후인 3월 둘째 주부터는 화요일 오후 8시에 진행하고, 매주 2명씩 발표한다.
 
 ## 스터디 진행 상황
 ### 1주차(23.01.06)
@@ -59,19 +60,23 @@
   - [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
 
 ### 5주차(23.02.21)
-- 학습 내용: 『6장 배치 및 스트리밍 데이터 수집』
+- 학습 내용: 『6장 배치 및 스트리밍 데이터 수집』,『7장 데이터를 변환하여 분석 최적화』
 - 참여자: 권미정, 강인영, 김예나, 최승현
 - 발표자: 김예나
   - [발표 자료](https://yeneua.tistory.com/9)
   - [발표 영상](https://drive.google.com/file/d/1dnro-N7ZKugunvtNLZ3zz13v7Zzw-jlb/view?usp=sharing)
 
 ### 6주차(23.03.01)
-- 학습 내용: 『7장 데이터를 변환하여 분석 최적화』,『8장 데이터 소비자 식별 및 활성화』
-- 발표자: 강경훈
+- 학습 내용:『8장 데이터 소비자 식별 및 활성화』
+- 참여자: 권미정, 강인영, 김예나, 최승현
 - 발표자: 권미정
+  - [실습 블로깅](https://mjrecord.tistory.com/33)
+  - [발표 영상](https://drive.google.com/file/d/10Cq4xGQO5Fb74-PL87cqSjP1YMyEN0f7/view?usp=sharing)
 - 발표자: 강인영
+  - [요약 블로깅](https://kio15978.tistory.com/95)
+  - [발표 영상](https://drive.google.com/file/d/1o7nyUwMoNb2zsV9rNS-SAqLjuyNmU36f/view?usp=sharing)
 
-### 7주차(23.03.)
+### 7주차(23.03.07)
 - 학습 내용: 『9장 데이터 마트에 데이터 로드』
 - 발표자: 최승현
 - 발표자: 김예나 
