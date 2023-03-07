@@ -79,4 +79,8 @@
 ### 7주차(23.03.07)
 - 학습 내용: 『9장 데이터 마트에 데이터 로드』
 - 발표자: 최승현
+  - [요약 블로깅](https://vulter3653.tistory.com/42)
+  - [발표 영상](https://drive.google.com/file/d/1mcVg_7KxPYWSNR_CQfRUT2y3GnBo7KaS/view?usp=sharing)
 - 발표자: 김예나 
+  - [요약 블로깅](https://yeneua.tistory.com/10)
+  - [발표 영상](https://drive.google.com/file/d/1OqqOmpaBEuRhplK6Q_RuUKTUIEckk50N/view?usp=sharing)
