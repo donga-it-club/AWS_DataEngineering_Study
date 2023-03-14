@@ -78,9 +78,26 @@
 
 ### 7주차(23.03.07)
 - 학습 내용: 『9장 데이터 마트에 데이터 로드』
+- 참여자: 권미정, 강인영, 김예나, 최승현
 - 발표자: 최승현
   - [요약 블로깅](https://vulter3653.tistory.com/42)
   - [발표 영상](https://drive.google.com/file/d/1mcVg_7KxPYWSNR_CQfRUT2y3GnBo7KaS/view?usp=sharing)
 - 발표자: 김예나 
   - [요약 블로깅](https://yeneua.tistory.com/10)
   - [발표 영상](https://drive.google.com/file/d/1OqqOmpaBEuRhplK6Q_RuUKTUIEckk50N/view?usp=sharing)
+
+### 8주차(23.03.14)
+- 학습 내용: 『10장 데이터 파이프라인 오케스트레이션』
+- 참여자: 권미정, 강인영, 김예나, 최승현
+- 발표자: 강인영
+  - [요약 블로깅](https://kio15978.tistory.com/96)
+  - [발표 영상](https://drive.google.com/file/d/1mFEoVbM_fAq3j3B5q1PjKdd5IaCgifpC/view?usp=sharing)
+- 발표자: 권미정
+  - [실습 블로깅](https://mjrecord.tistory.com/34)
+  - [발표 영상](https://drive.google.com/file/d/1IlHARxaiRHM-Gi5ZizURebREUZcyOOVN/view?usp=sharing)
+
+### 9주차(23.03.21)
+- 학습 내용: 『11장 Amazon Athena를 사용한 임시 쿼리』
+- 참여자: 
+- 발표자: 김예나
+- 발표자: 최승현
