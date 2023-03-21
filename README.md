@@ -98,6 +98,17 @@
 
 ### 9주차(23.03.21)
 - 학습 내용: 『11장 Amazon Athena를 사용한 임시 쿼리』
-- 참여자: 
+- 참여자: 권미정, 강인영, 김예나, 최승현
 - 발표자: 김예나
+  - [요약 블로깅](https://yeneua.tistory.com/12)
+  - [발표 영상](https://drive.google.com/file/d/1LJowqRokNsGS57qsSutzTAiUw2hiZX8r/view?usp=sharing)
 - 발표자: 최승현
+  - [요약 블로깅](https://vulter3653.tistory.com/43)
+  - 마이크 잡음 이슈로 발표는 다음 주 예정
+
+### 10주차(23.03.28)
+- 학습 내용: 『12장 Amazon QuickSight로 데이터 시각화』, 『13장 인공 지능 및 머신 러닝 활성화』
+- 참여자:
+- 발표자: 최승현
+- 발표자: 김예나
+- 발표자: 권미정 
