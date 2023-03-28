@@ -60,7 +60,7 @@
   - [발표 영상](https://drive.google.com/file/d/1DmMTXnxzi4YHy1-nroXjDVq-G4DXI80y/view?usp=sharing)
 
 ### 5주차(23.02.21)
-- 학습 내용: 『6장 배치 및 스트리밍 데이터 수집』,『7장 데이터를 변환하여 분석 최적화』
+- 학습 내용: 『6장 배치 및 스트리밍 데이터 수집』, 『7장 데이터를 변환하여 분석 최적화』
 - 참여자: 권미정, 강인영, 김예나, 최승현
 - 발표자: 김예나
   - [발표 자료](https://yeneua.tistory.com/9)
@@ -107,8 +107,13 @@
   - 마이크 잡음 이슈로 발표는 다음 주 예정
 
 ### 10주차(23.03.28)
-- 학습 내용: 『12장 Amazon QuickSight로 데이터 시각화』, 『13장 인공 지능 및 머신 러닝 활성화』
-- 참여자:
+- 학습 내용: 『12장 Amazon QuickSight로 데이터 시각화』, 『13장 인공 지능 및 머신 러닝 활성화』, 『14장 학습 여정의 첫 번째 부분 마무리』
+- 참여자: 권미정, 강인영, 김예나, 최승현
 - 발표자: 최승현
+  - [발표 영상](https://drive.google.com/file/d/1Wr8ne0LSuvGhpHjcys3lwcn7HrxM4uFP/view?usp=sharing)
 - 발표자: 김예나
+  - [12장 실습 블로깅](https://yeneua.tistory.com/13)
+  - [발표 영상](https://drive.google.com/file/d/1QbLLG8R62gnHYoM7nXPFfrpRicLWJoTC/view?usp=sharing)
 - 발표자: 권미정 
+  - [13장 요약 블로깅](https://mjrecord.tistory.com/35), [13장 실습 블로깅](https://mjrecord.tistory.com/36), [14장 블로깅](https://mjrecord.tistory.com/37)
+  - [발표 영상](https://drive.google.com/file/d/1H-4RhAP67CxC2L_k_PoXbAK2Exi1lVcg/view?usp=sharing)
